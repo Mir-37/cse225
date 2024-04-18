@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1710959830 source:g:\c++\unsorted list adt array based\main.cpp
+	<iostream>
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+	"studentinfo.h"
+
+1710959914 source:g:\c++\unsorted list adt array based\unsortedtype.cpp
+	"unsortedtype.h"
+	<bits/stdc++.h>
+
+1710957608 g:\c++\unsorted list adt array based\unsortedtype.h
+
+1710959899 source:g:\c++\unsorted list adt array based\studentinfo.cpp
+	"studentinfo.h"
+	<cstring>
+
+1710957778 g:\c++\unsorted list adt array based\studentinfo.h
+
+1710959914 g:\c++\unsorted list adt array based\unsortedtype.cpp
+	"unsortedtype.h"
+	<bits/stdc++.h>
+

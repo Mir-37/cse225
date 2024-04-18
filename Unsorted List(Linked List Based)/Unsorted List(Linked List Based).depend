@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712151907 source:g:\c++\unsorted list(linked list based)\main.cpp
+	<iostream>
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+
+1712152793 source:g:\c++\unsorted list(linked list based)\unsortedtype.cpp
+	<iostream>
+	"unsortedtype.h"
+
+1712152700 g:\c++\unsorted list(linked list based)\unsortedtype.h
+
+1712152793 g:\c++\unsorted list(linked list based)\unsortedtype.cpp
+	<iostream>
+	"unsortedtype.h"
+

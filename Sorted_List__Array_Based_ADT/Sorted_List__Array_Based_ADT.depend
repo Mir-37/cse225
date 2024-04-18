@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1711043376 source:g:\c++\sorted_list__array_based_adt\sortedtype.cpp
+	<iostream>
+	"sortedtype.h"
+
+1711045028 g:\c++\sorted_list__array_based_adt\sortedtype.h
+
+1711043498 source:g:\c++\sorted_list__array_based_adt\studentinfo.cpp
+	<iostream>
+	"studentinfo.h"
+
+1711043534 g:\c++\sorted_list__array_based_adt\studentinfo.h
+
+1711044419 source:g:\c++\sorted_list__array_based_adt\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+	"studentinfo.h"
+
+1711043376 g:\c++\sorted_list__array_based_adt\sortedtype.cpp
+	<iostream>
+	"sortedtype.h"
+

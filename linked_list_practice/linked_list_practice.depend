@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1713399797 source:g:\c++\linked_list_practice\main.cpp
+	<iostream>
+	"linkedlist.h"
+	"linkedlist.cpp"
+	"timestamp.h"
+
+1713399697 source:g:\c++\linked_list_practice\linkedlist.cpp
+	<bits/stdc++.h>
+	"linkedlist.h"
+
+1713393516 g:\c++\linked_list_practice\linkedlist.h
+
+1713399697 g:\c++\linked_list_practice\linkedlist.cpp
+	<bits/stdc++.h>
+	"linkedlist.h"
+
+1713398474 g:\c++\linked_list_practice\timestamp.h
+
+1713399884 source:g:\c++\linked_list_practice\timestamp.cpp
+	"timestamp.h"
+	<bits/stdc++.h>
+
